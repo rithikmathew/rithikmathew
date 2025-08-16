@@ -2,7 +2,7 @@
 
 Aspiring Software Develope 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [LinkedIn](https://www.linkedin.com/in/rithik007)                                                 
+- 🔭 Here's my [Portfolio](https://www.rithikmathew.web.app)                                                 
 - 🎓 Master’s in Computer Science (Bishop Heber College, Bharathidasan University, 'Trichy).
 - 🌐 Designed and developed a responsive hospital website with HTML, CSS, and JavaScript. [Template link](https://rithik-hosiptal-website-template.netlify.app/),
 - 🤖 Created a College Enquiry Chatbot using Python (Flask) with NLP libraries like NLTK & ChatterBot.
