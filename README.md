@@ -2,13 +2,13 @@
 
 Aspiring Software Develope 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [Portfolio](https://rithikmathew.web.app)                                                 
+- 🔭 Here's my [Portfolio 🌐](https://rithikmathew.web.app)                                                 
 - 🎓 Master’s in Computer Science (Bishop Heber College, Bharathidasan University, 'Trichy).
 - 🌐 Designed and developed a responsive hospital website with HTML, CSS, and JavaScript. [Template link](https://rithik-hosiptal-website-template.netlify.app/)
-- 🤖 Created a #College Enquiry Chatbot using Python (Flask) with NLP libraries like NLTK & ChatterBot.[Template link](https://rithik007.pythonanywhere.com/)
+- 🤖 Created a ##College Enquiry Chatbot using Python (Flask) with NLP libraries like NLTK & ChatterBot and Database: MySQL and SQqlite.[Deploy link 🌐](https://rithik007.pythonanywhere.com/)
 - 📚 Always learning new technologies and contributing to open-source projects.
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rithik_007_mathew) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rithik007) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@RMeditZ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rithikmathew007@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rithik_007_mathew) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rithikmathew) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@RMeditZ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rithikmathew007@gmail.com) 
 
 # 💻 I Code IN:
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/github.png"/>
